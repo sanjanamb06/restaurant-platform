@@ -109,7 +109,7 @@ The app runs on `http://localhost:5173`.
 
 ## Step 4 — AI Microservice
 
-Open a new terminal in the `ai-service/` directory.
+Open a new terminal in the `ai-services/` directory.
 
 ### First time only
 

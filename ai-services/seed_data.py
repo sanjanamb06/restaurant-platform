@@ -18,7 +18,7 @@ What it does:
   5. Skips days/items that already have data (idempotent — safe to re-run).
 
 Usage:
-  cd ai-service
+  cd ai-services
   python seed_data.py               # seeds 60 days
   python seed_data.py --days 30     # seeds 30 days
   python seed_data.py --dry-run     # preview without inserting
